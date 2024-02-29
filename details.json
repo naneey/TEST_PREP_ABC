@@ -1,0 +1,29 @@
+{
+    "representative": {
+        "logo": {
+            "logo_256": "",
+            "logo_1024": "",
+            "logo_svg": ""
+        },
+        "media": {
+        "steemit": "",
+      "twitter": "",
+      "youtube": "",
+      "facebook": "",
+      "github": "",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat": "",
+      "medium": ""
+    }
+    },
+    "server": {
+        "location": {
+            "country": "USA",
+            "city": "Houston"
+        },
+        "server_type": "cloud",
+        "api_endpoint": "52.26.81.40:9000"
+    }
+}
